@@ -1,19 +1,16 @@
 # Basic Information 
-title: Zhutao Li (李竹涛)
+title: Zhutao Li
 position: M.S. Student
 affiliation: Southern University of Science and Technology
 email: 12433457 (at) mail.sustech.edu.cn
 
 # Search Engine Optimization (SEO)
-keywords: Zhutao Li, 李竹涛, SUSTech, Brain-Computer Interface, BCI, Neural Signal Processing, Deep Learning, Time-Series
+keywords: Brain-Computer Interface, BCI, Neural Signal Processing,Human-in-the-Loop (HITL) Control
 description: Zhutao Li's Academic Homepage
 canonical: https://ztgogoing.github.io/
 
 # Links 
 github_link: https://github.com/zTGogoing
-cv_link: assets/files/ZhutaoLi_CV.pdf
-# google_scholar: https://scholar.google.com/
-# linkedin: https://www.linkedin.com/
 
 # Images 
 avatar: ./assets/img/avatar.png
