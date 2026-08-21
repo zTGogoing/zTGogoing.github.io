@@ -1,47 +1,38 @@
 # Basic Information 
-title: ZhutaoLi
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Zhutao Li (李竹涛)
+position: M.S. Student
+affiliation: Southern University of Science and Technology
+email: 12433457 (at) mail.sustech.edu.cn
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Zhutao Li, 李竹涛, SUSTech, Brain-Computer Interface, BCI, Neural Signal Processing, Deep Learning, Time-Series
+description: Zhutao Li's Academic Homepage
+canonical: https://ztgogoing.github.io/
 
 # Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/zTGogoing
+cv_link: assets/files/ZhutaoLi_CV.pdf
+# google_scholar: https://scholar.google.com/
+# linkedin: https://www.linkedin.com/
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images 
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
 
 # Auto Dark Mode
-# You may use the option to disable the automatic dark theme
 auto_dark_mode: true
 
 # Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# Google Analytics ID (留空或填入你自己的ID，已注释掉作者默认ID以防数据混淆)
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
