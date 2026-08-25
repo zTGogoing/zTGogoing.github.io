@@ -47,6 +47,9 @@ Brain-Computer Interfaces (BCI), Neural Signal Processing, and Embodied AI. My c
 * **Nanjing University of Aeronautics and Astronautics (NUAA)** | *Sept. 2019 – Jul. 2023*  
   B.E. in Software Engineering 
 
+## 📝 Thoughts & Perspectives
+* **[2026-08]** [对具身智能（Embodied AI）发展与神经交互的一些思考](./embodied-ai.html)  
+  *一些研究思考*
 
 ## 📮 Contact
 * **Email**: 12433457 (at) mail.sustech.edu.cn
