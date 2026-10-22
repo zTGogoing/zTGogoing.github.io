@@ -8,7 +8,7 @@ I am currently a Master's student in Electronic Information at the **Southern Un
 Brain-Computer Interfaces (BCI), Neural Signal Processing, and Embodied AI. My current work bridges **neural decoding** (EEG time-series, domain generalization) with **closed-loop robotic control**, aiming to establish intuitive Human-Robot Interaction (HRI). In the future, I aim to extend this towards **Human-Centered Embodied AI**, developing intelligent agents that adapt to human cognitive and motor states in real-world physical environments.
 
 ## 📣 News
-
+* **[2026-10]** Awarded the **Special-Class Academic Scholarship** at SUSTech.
 * **[2026-07]** Won the **Third Prize** in the World Robot Contest (BCI Brain-Controlled Robot Competition).
 * **[2026-05]** One paper on closed-loop BCI-VR serious game was accepted to **EMBC 2026** for an **Oral Presentation**!
 * **[2026-02]** One co-first-author paper on BCI-triggered hand exoskeleton was accepted by ***Electronics***.
@@ -47,10 +47,14 @@ Brain-Computer Interfaces (BCI), Neural Signal Processing, and Embodied AI. My c
 * **Nanjing University of Aeronautics and Astronautics (NUAA)** | *Sept. 2019 – Jul. 2023*  
   B.E. in Software Engineering 
 
+## 🎯 Service & Community
+* **Journal / Conference Reviewer**: Peer-reviewed submissions in neural engineering and BCI domains.
+* **Volunteer**, The 15th National Games of China *(Nov. 2025)*
+
 ## 📝 Thoughts & Perspectives
 * **[2026-08]** [对具身智能（Embodied AI）发展与神经交互的一些思考](./embodied-ai.html)  
   *一些研究思考*
 
 ## 📮 Contact
-* **Email**: 12433457 (at) mail.sustech.edu.cn
+* **Email**: 12433457 (at) mail.sustech.edu.cn / zt.li (at) siat.ac.cn
 * **Location**: Southern University of Science and Technology, Shenzhen, Guangdong, China
