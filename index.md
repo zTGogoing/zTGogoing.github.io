@@ -35,7 +35,7 @@ Brain-Computer Interfaces (BCI), Neural Signal Processing, and Embodied AI. My c
 
 
 ## 🏆 Awards & Honors
-* **Special-Class Academic Scholarship(2026)** **First-Class Academic Scholarship**, Southern University of Science and Technology *(2024, 2025)*
+* **Special-Class Academic Scholarship(2026)** ,**First-Class Academic Scholarship**, Southern University of Science and Technology *(2024, 2025)*
 * **Second Prize (First Place in Graduate Category)**, AI BCI "Future Star" Innovation Competition
 * **Third Prize**, World Robot Contest (BCI Brain-Controlled Robot Competition)
 * **Outstanding Student Scholarship**, Nanjing University of Aeronautics and Astronautics
